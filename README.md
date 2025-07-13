@@ -41,5 +41,7 @@ Simply execute the Python script from your terminal:
 python web_scrapping_pandas.py
 ```
 ## 🤝 Connect with me 🤝
+📎 LinkedIn
+https://www.linkedin.com/in/mojtaba-ameri/
 
 
