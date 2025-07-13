@@ -15,7 +15,7 @@ The script is designed to be a practical tool for data analysts, scientists, and
 
 ## 🛠️ Prerequisites
 
-- Python 3.6+
+- Python 3.10+
 - The Python libraries listed in `requirements.txt`.
 
 ## ⚙️ Installation & Setup
