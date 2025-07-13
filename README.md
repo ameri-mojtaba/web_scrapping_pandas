@@ -22,8 +22,9 @@ The script is designed to be a practical tool for data analysts, scientists, and
 
 1.  **Clone the repository:**
     ```bash
-    git clone [YOUR_REPOSITORY_URL]
-    cd [YOUR_REPOSITORY_NAME]
+    git clone https://github.com/ameri-mojtaba/web_scrapping_pandas
+    cd web_scrapping_pandas
+
     ```
 
 2.  **Install the required dependencies:**
