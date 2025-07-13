@@ -39,3 +39,6 @@ Simply execute the Python script from your terminal:
 
 ```bash
 python web_scrapping_pandas.py
+
+## 🤝 Connect with me 🤝
+
